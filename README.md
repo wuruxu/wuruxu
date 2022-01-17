@@ -1,8 +1,20 @@
-### Hi there 👋
+### Hi, I am wuruxu
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=wuruxu&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff"
+  title="wuruxu&#039;s GitHub Stats"
+  align="right"
+  width="60%"
+/>
+
+- ✨ Python / C / Android / Linux
+- ✨ Openwrt / Debian / Wireguard
 
 <!--
 **wuruxu/wuruxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+- ✨ Python / C / Android / Linux
+- ✨ Openwrt / Debian
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
