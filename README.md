@@ -1,4 +1,4 @@
-### Hi, I am wuruxu
+### Hi, I am wuruxu, Looking for a new job in China or Remote
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=wuruxu&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff"
@@ -7,8 +7,8 @@
   width="60%"
 />
 
-- ✨ Python / C / Android / Linux
-- ✨ Openwrt / Debian / Wireguard
+- ✨ Python / C / Android / Linux 
+- ✨ Openwrt / Debian / Wireguard / IPv6
 
 <!--
 **wuruxu/wuruxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
