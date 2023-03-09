@@ -1,4 +1,4 @@
-### Hi, I am wuruxu, Looking for a new job in China or Remote
+### Hi, I am wuruxu
 
 <img
   src="https://github-readme-stats.vercel.app/api?username=wuruxu&count_private=true&show_icons=true&icon_color=f3437a&bg_color=30,f2ffe6,e6ffff"
@@ -7,7 +7,7 @@
   width="60%"
 />
 
-- ✨ Python / C / Android / Linux 
+- ✨ Java / C++ / Android / Linux 
 - ✨ Openwrt / Debian / Wireguard / IPv6
 
 <!--
