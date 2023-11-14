@@ -9,7 +9,7 @@
 
 - ✨ Java / C++ / Android / Linux 
 - ✨ Openwrt / Debian / Wireguard / IPv6
-
+- 🔭 Looking for a job in China or Remote
 <!--
 **wuruxu/wuruxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
