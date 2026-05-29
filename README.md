@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/wuruxu">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=22D3EE&center=true&vCenter=true&width=720&lines=%24+whoami+%3E+wuruxu;%24+stack+%3E+Java+%2B+C%2B%2B+%2B+Chromium+%2B+Linux;%24+route+%3E+OpenWrt+%2B+Debian+%2B+WireGuard+%2B+IPv6;%24+mode+%3E+build%2C+debug%2C+ship" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=860&color=22D3EE&center=true&vCenter=true&width=720&lines=%24+whoami+%3E+WURUXU;%24+stack+%3E+Java+%2B+C%2B%2B+%2B+Chromium+%2B+Linux;%24+route+%3E+OpenWrt+%2B+Debian+%2B+WireGuard+%2B+IPv6;%24+mode+%3E+build%2C+debug%2C+ship" alt="Typing SVG" />
   </a>
 </p>
 
