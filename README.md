@@ -10,8 +10,8 @@
 
 ```console
 $ cat /home/wuruxu/profile
-role      : systems-minded developer
-focus     : browsers, networks, Linux, automation
+role      : old software developer
+focus     : browsers, networks, Linux, android
 stack     : Java, C++, Chromium, OpenWrt, Debian, WireGuard, IPv6
 principle : keep close to upstream, remove friction, ship runnable things
 ```
